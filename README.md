@@ -1,2 +1,2 @@
 # bf3-clan-match-organiser
-My biggest and one and only PHP project, which was made possible by reading the first 300 pages of `Einstieg in PHP 5.3 und MySQL 5.4` from `Thomas Theis`.
+my biggest and one and only php project, which was made possible by reading the first 300 pages of `einstieg in php 5.3 und mysql 5.4` from `thomas theis`
